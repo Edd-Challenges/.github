@@ -3,10 +3,10 @@
 
 #### Practica con los siguientes ejercicios.
 
-- CONTADOR DE CARACTERES
-- BORRAR UN CARÁCTER
-- BUSCAR CARÁTER
-- MAYÚSCULAS Y MINÚSCULAS
+- [CONTADOR DE CARACTERES](https://github.com/Edd-Challenges/CONTADOR-DE-CARACTERES)
+- [BORRAR UN CARÁCTER](https://github.com/Edd-Challenges/BORRAR-UN-CAR-CTER)
+- [BUSCAR CARÁCTER](https://github.com/Edd-Challenges/BUSCAR-CARACTER)
+- [MAYÚSCULAS Y MINÚSCULAS](https://github.com/Edd-Challenges/MAYUSCULAS-Y-MINUSCULAS)
 - PALÍNDROMOS
 - ANAGRAMAS
 - CONTAR DEL 0 AL 100
