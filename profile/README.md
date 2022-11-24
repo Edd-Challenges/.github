@@ -17,6 +17,5 @@
 - NÚMEROS PARES E IMPARES
 - PALABRA MÁS LARGA
 - MAYOR DE EDAD
-- ÁREA Y PERIMETRO
 
-[Edd Challenges](https://codewithedd.com/retos-de-programacion/)
+[Edd Challenges](https://challenges.codewithedd.com)
