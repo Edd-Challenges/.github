@@ -21,14 +21,14 @@
 
 #### Más retos, a darle átomos.
 
-- FIZZ BUZZ
-- TRIÁNGULO DE PASCAL
-- EL JUEGO DE LA VIDA
-- SUCESIÓN FIBONACCI
-- NÚMERO NARCISISTA
-- PIEDRA, PAPEL, TIJERAS, LAGARTO, SPOCK
-- CUADRADO MÁGICO
-- BUSCAMINAS
+- [FIZZ BUZZ](https://github.com/Edd-Challenges/FIZZ-BUZZ)
+- [TRIÁNGULO DE PASCAL](https://github.com/Edd-Challenges/TRIANGULO-DE-PASCAL)
+- [EL JUEGO DE LA VIDA]()
+- [SUCESIÓN FIBONACCI](https://github.com/Edd-Challenges/SUCESION-FIBONACCI)
+- [NÚMERO NARCISISTA](https://github.com/Edd-Challenges/NUMERO-NARCISISTA)
+- [PIEDRA, PAPEL, TIJERAS, LAGARTO, SPOCK]()
+- [CUADRADO MÁGICO]()
+- [BUSCAMINAS]()
 
 #### Revisa los ejercicios puestos en acción de forma simple.
 
